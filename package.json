@@ -1,0 +1,21 @@
+{
+  "name": "pine-lang-js",
+  "version": "3.5.8",
+  "description": "The pine language to be used in node",
+  "main": "pineLang.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pineLang.js"
+  },
+  "keywords": [],
+  "author": "samuelbuckley <samuel_buckley@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EjjiCoUk/PineLang-npm/tree/main"
+  }
+}
